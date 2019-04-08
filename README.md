@@ -8,21 +8,35 @@
 
 # Projects
 
-| Name | Description  | Subject |
-|--- | --- | --- |
-|Flappy Bird| A genetic algorithm so play flappy bird| Genetic Algorithms |
-| Cell Destruction | A copy of AlphaZero to play this Game | Deep Neural Networks, Manhatam Trees|
+1. Flappy Bird 
+  - Métodos
+    - Autómata Finíto
+    - Algoritmo Genético con AF
+    - Neural Network
+    - NEAT
+2. Race Game 2D
+  - Métodos
+    - AF
+    - Algoritmo Genético con AF
+    - Algoritmo mediante Neural Network
+    - Q Learning
+3. Chain Reaction
+  - Método 
+    - NEAT
+    - Neural Network + Manhatam Tree
+
 
 # Exercises
 
 - Easy
-  1. Conway Game of Life
-  2. Langton Ant
-  3. Implement Flappy Bird
+  - Conway Game of Life
+  - Langton Ant
+  - Implementar un Tres en Raya
+  - Implementar un Flappy Bird
 - Medium
-  1. Genetic Algorithm for Flappy Bird
+  - Genetic Algorithm for Flappy Bird
  - Hard
-  1. Convolutional Neural Network for Flappy Bird
+  - Convolutional Neural Network for Flappy Bird
 # Members
 
 
